@@ -1,14 +1,14 @@
+from re import A
+
+
 print("Adding all the data processing code realted to fraud detection")
 
-a = 5
-b = 7
 
+a =5
+b=7
 def sum(a,b):
-    c = a + b
-    return c
-print("sum function")
+    c =a+b 
+    return A
 
-
-print("Subtraction function")
-
+print("added a new function sum which is not correct") 
 
